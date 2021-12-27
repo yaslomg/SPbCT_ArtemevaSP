@@ -1,0 +1,3 @@
+C:\Users\amano\source\repos\Project11\Project11\Debug\Project11.vcxprojAssemblyReference.cache
+C:\Users\amano\source\repos\Project11\Project11\Debug\Project11.Form1.resources
+C:\Users\amano\source\repos\Project11\Project11\Debug\Project11.vcxproj.GenerateResource.cache

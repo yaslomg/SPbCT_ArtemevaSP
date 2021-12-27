@@ -1,0 +1,5 @@
+﻿  Form1.cpp
+C:\Users\amano\source\repos\Project11\Project11\Form1.h(314,9): warning C4101: ch: неиспользованная локальная переменная
+  dllmain.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Users\amano\source\repos\Project11\Debug\Project11.lib и объект C:\Users\amano\source\repos\Project11\Debug\Project11.exp
+  Project11.vcxproj -> C:\Users\amano\source\repos\Project11\Debug\Project11.exe
